@@ -1,5 +1,5 @@
-let idade = 31;
-console.log(typeof 31);
+let idade = 31; 
+console.log(typeof 31); //typeof (tipo)
 console.log(typeof idade);
 
 let salario = 4578.32 ; //ponto flutuante
